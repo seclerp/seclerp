@@ -44,7 +44,7 @@ And a bit of
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclerp&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclerp&hide=html,css&show_icons=true&theme=tokyonight" />
   </p>
 </details>
 
