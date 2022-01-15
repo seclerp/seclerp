@@ -34,6 +34,12 @@ And a bit of
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=seclerp&repo=rider-efcore&theme=tokyonight" />
     </a>
   </p>
+  
+  <p align="center">
+    <a href="https://github.com/seclerp/rider-monogame">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=seclerp&repo=rider-monogame&theme=tokyonight" />
+    </a>
+  </p>
 </details>
 
 <details>
