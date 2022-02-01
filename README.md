@@ -1,6 +1,6 @@
 ### Hi there 🍀
 
-My name is Andrew Rublyov, I'm a software engineer mainly interested in **development tools** creation for **programming languages** as long as **game development**.
+My name is Andrew Rublyov, I'm a software engineer mainly interested in **development tools** creation for **programming languages** as well as **game development**.
 
 Currently working as **backend developer** in **core solution infrastructure** team.
 
@@ -31,7 +31,7 @@ Actively contributing to different **developer tools** in my spare time.
 ---
 
 <details>
-  <summary><b>Noticable projects</b></summary>
+  <summary><b>Noticeable projects</b></summary>
   
   <p align="center">
     <a href="https://github.com/seclerp/rider-efcore">
