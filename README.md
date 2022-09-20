@@ -1,10 +1,8 @@
 ### Hi there 🍀
 
-My name is Andrew Rublyov, I'm a software engineer mainly interested in **development tools** creation for **programming languages** as well as **game development**.
+I'm Andrew, a software engineer mainly interested in programming languages tooling creation.
 
-Currently working as **backend developer** in **core solution infrastructure** team.
-
-Actively contributing to different **developer tools** in my spare time.
+Actively contributing to different developer tools in my spare time.
 
 ---
 
