@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew, a software engineer mainly interested in programming languages tooling creation.
+I'm Andrii, a software engineer mainly interested in programming languages tooling creation.
 
 Actively contributing to different developer tools in my spare time.
 
