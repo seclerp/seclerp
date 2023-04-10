@@ -18,36 +18,3 @@ Secondary:
 &nbsp;<img alt="Rust" valign="middle" src="https://img.shields.io/badge/rust-%23ff9000.svg?style=for-the-badge&logo=rust&logoColor=white">
 
 And a bit of &nbsp;<img alt="Lua" valign="middle" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-
-
----
-
-<details>
-  <summary><b>Noticeable projects</b></summary>
-  
-  <p align="center">
-    <a href="https://github.com/seclerp/rider-efcore">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=seclerp&repo=rider-efcore&theme=tokyonight" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/seclerp/rider-monogame">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=seclerp&repo=rider-monogame&theme=tokyonight" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>My GitHub stats</b></summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seclerp&show_icons=true&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclerp&hide=html,css&show_icons=true&theme=tokyonight" />
-  </p>
-</details>
-
-
