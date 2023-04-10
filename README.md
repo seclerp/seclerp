@@ -15,8 +15,7 @@ My primary development stack:
 
 Secondary:
 &nbsp;<img alt="Kotlin" valign="middle" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-&nbsp;<img alt="TypeScript" valign="middle" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-&nbsp;<img alt="JavaScript" valign="middle" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+&nbsp;<img alt="Rust" valign="middle" src="https://img.shields.io/badge/rust-%23ff9000.svg?style=for-the-badge&logo=rust&logoColor=white">
 
 And a bit of &nbsp;<img alt="Lua" valign="middle" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 
